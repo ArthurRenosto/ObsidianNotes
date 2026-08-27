@@ -1,0 +1,2 @@
+- Como listar os diretorios do SMB: smbclient -L 10.129.1.12
+- Pode aparecer assim no nmap se ele nao conseguir identificar a versao do SMB: 445/tcp  open  microsoft-ds?

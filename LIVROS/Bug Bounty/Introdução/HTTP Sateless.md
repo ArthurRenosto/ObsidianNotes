@@ -1,0 +1,3 @@
+O HTTP é um protocolo stateless(sem estado), isso significa que cada request feita para o servidor, é tratada de forma independente, como uma nova solicitação, o servidor por padrão, não sabe nada sobre a comunicação anterior.
+
+Isso em geral é um problema, pois quando você se loga em uma aplicação para interagir com ela, você precisaria passar suas credenciais a cada nova requisição HTTP feita dentro do site. Para resolver esse problema, as aplicações usam mecanismos de persistência, como cookies, tokens etc.

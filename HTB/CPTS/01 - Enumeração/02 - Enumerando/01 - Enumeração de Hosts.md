@@ -1,0 +1,68 @@
+- Ao realizar uma varredura interna de uma rede empresarial, nosso objetivo é obter uma visão geral do ambiente.
+- Podemos fazer isso através de ICMP, onde o nmap envia ICMP echo requests e aguarda o echo reply, ou atraves de arp-ping, onde ele envia ARP requests e aguarda o ARP reply.
+- É importante ressaltar que muitas vezes firewalls e IDS bloqueiam os pacotes de reply, assim fazendo parecer que um serviço não está disponível, ou que um host não está acessível.
+
+# Definindo Alvos
+
+## Enumerando faixa
+
+- Passamos uma faixa de IPs para serem testados
+```shell
+sudo nmap 10.129.2.0/24 -sn -oA resultado | grep for | cut -d" " -f5
+```
+
+## Enumerando por lista
+
+- Passamos uma lista com os IPs que serão testados
+```shell
+sudo nmap -sn -oA resultado -iL hosts.txt | grep for | cut -d" " -f5
+```
+
+## Enumerando múltiplos IPs
+
+- Passamos manualmente múltiplos IPs que serão testados
+```shell
+sudo nmap -sn -oA tnet 10.129.2.18 10.129.2.19 10.129.2.20| grep for | cut -d" " -f5
+```
+
+# Escolhendo Scan
+
+## ARP Ping
+
+- Por padrão, quando enumeramos uma LAN, o nmap usa ARP ping
+
+```shell
+sudo nmap 10.129.2.18/24 -sn -oA resultados --packet-trace 
+```
+
+# ICMP Ping
+
+- Podemos forçar o uso de ICMP echo requests ao inves de ARP requests para enumeração
+
+```shell
+sudo nmap 10.129.2.18 -sn -oA host -PE --packet-trace --disable-arp-ping 
+```
+
+# Flags
+
+| Flag               | Descrição                                                                                         |
+| ------------------ | ------------------------------------------------------------------------------------------------- |
+| -sn                | Desativa scanning de portas                                                                       |
+| -oA arquivo.txt    | Salva output em todos os formatos                                                                 |
+| -iL                | lista de hosts para serem testados                                                                |
+| -PE                | Envia ICMP echo Request                                                                           |
+| --packet-trace     | Exibe todos os pacotes enviados e recebidos                                                       |
+| --reason           | Exibe o motivo de por que o nmap decidiu se o host esta vivo, como por exemplo eceived echo-reply |
+| --disable-arp-ping | Desativa o arp ping(oq em scan de LANs o nmap não faz por padrao)                                 |
+
+# Descoberta de OS pelo TTL
+
+- É possível descobrir o sistema operacional de um host através do TTL(Time-to-Live)
+- Cada sistema operacional define um TTL padrão
+- É um valor que pode variar pela quantidade de hops, pode ser alterado manualmente ou mascarado por firewalls, assim sendo necessário ter cuidado
+
+| OS               | TTL |
+| ---------------- | --- |
+| Linux/MacOS<br>  | 64  |
+| Windows          | 128 |
+| Routers/Switches | 255 |

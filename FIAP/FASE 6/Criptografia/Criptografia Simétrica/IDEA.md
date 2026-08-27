@@ -1,0 +1,1 @@
+O IDEA é uma é técnica de cifragem por blocos, com tamanho máximo de 128 bits. 

@@ -1,0 +1,1 @@
+O AES (Advanced   Encryption   Standard,   ou padrão   de criptografia avançada) é o algoritmo diretamente sucessor do DES e 3DES. Ele opera com cifragem por blocos fixos de 128 bits, e sua chave podendo variar entre 128, 192 e 256 bits

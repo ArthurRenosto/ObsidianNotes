@@ -1,0 +1,3 @@
+O DSA (Digital  Signature  Algorithm ou algoritmo  de  assinatura  digital) foi desenvolvido exclusivamente para assinar dados e não criptografa-los. Foi projetado inicialmente para um tamanho máximo de 1024 bits, mas hoje em dia suporta chaves maiores.
+
+Quando o DSA é utilizado, o processo de criação da assinatura digital é mais rápido do que sua validação. Quando o RSA é utilizado, o processo de validação da assinatura digital é mais rápido do que a criação.

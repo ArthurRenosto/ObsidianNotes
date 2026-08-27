@@ -1,0 +1,1 @@
+O AD funciona como uma estrutura hierárquica, como uma floresta

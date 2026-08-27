@@ -1,0 +1,3 @@
+- Virtual Private Server.
+- Funciona como um computador, porém em nuvem, assim sendo possível o acesso através de RDP,  SSH, FTP.
+- Vários servidores virtuais podem ser instalados em um único servidor físico.

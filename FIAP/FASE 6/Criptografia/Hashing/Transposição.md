@@ -1,0 +1,3 @@
+Neste  tipo  de  cifra, amensagem  é  embaralhadapor  meio  da  reordenação lógica dos símbolosdamensagem em texto claro, em vezde sua substituição.Afigura “Cifragem  de  transposição”  apresenta  uma tabela que   mostra   uma   cifra   de transposição de colunas, uma das mais comuns, quesebaseia em uma chave que consiste deuma palavra ou frase que não contenhaletras repetidas.
+
+O  objetivo  da  chave énumerar  as  colunas  de  modo  que  a  coluna  1  fiqueposicionada abaixo  da  letra  da  chave  mais  próxima ao  início  do  alfabeto  e  assim sucessivamente(linha 2). A mensagem emtexto claroéescritahorizontalmente(em linhas)–sem espaços, enquanto o texto cifrado élido verticalmente (emcolunas), a partir da coluna cuja letrada chave seja a mais baixa.

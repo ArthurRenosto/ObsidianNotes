@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "9e29d5b7e8f0f48f",
+    "type": "split",
+    "children": [
+      {
+        "id": "87ab29684149d39c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d52f4d4d1a4b2b31",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "FASE 6/Analise de Rede/Netcat.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Netcat"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "487ca9b8451f34b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "008b8591829bd3de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f865c6d02940ee1d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "0377a16ab6acff2c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "9e4ecdaef7315f3a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d40bcfad7c7656f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "aea2c7bd702c3d65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0c7d3d32ece7598",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FASE 6/Analise de Rede/Configuração do Switch.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Configuração do Switch"
+            }
+          },
+          {
+            "id": "ae13d3ecd5b20d37",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "FASE 6/Analise de Rede/Configuração do Switch.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Configuração do Switch"
+            }
+          },
+          {
+            "id": "f88234d5e5637408",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2ab82ce91139437c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "FASE 6/Analise de Rede/Configuração do Switch.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Configuração do Switch"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "d52f4d4d1a4b2b31",
+  "lastOpenFiles": [
+    "FASE 6/Estenografia/Métodos de Estenografia.md",
+    "FASE 6/Analise de Rede/Tshark.md",
+    "FASE 6/Estenografia",
+    "FASE 6/Analise de Rede/Introdução a Analisadores de Rede.md",
+    "FASE 6/Analise de Rede/Configuração do Switch.md",
+    "FASE 6/Analise de Rede/Port Mirroring.md",
+    "FASE 6/Analise de Rede/TCPDump.md",
+    "FASE 6/Analise de Rede/Wireshark.md",
+    "FASE 6/Analise de Rede/Netcat.md",
+    "FASE 6/Criptografia/Criptografia Assimétrica/Algoritmo de Diffie-Hellman.md",
+    "FASE 6/Criptografia/Criptografia Assimétrica/Criptografia Assimétrica.md",
+    "FASE 6/Criptografia/Criptografia Simétrica/Criptografia Simétrica.md",
+    "FIAP.md",
+    "Bem-vindo.md",
+    "FASE 6/Imagens FASE 6/Imagens Criptografia/Terminal Hashing.png",
+    "FASE 6/Imagens FASE 6/Imagens Criptografia/Tabela Hashes.png",
+    "FASE 6/Imagens FASE 6/Imagens Criptografia/Tabela Algoritmo Simétricos.png",
+    "FASE 6/Imagens FASE 6/Imagens Criptografia/Exemplo terminal hash ID saida.png",
+    "FASE 6/Imagens FASE 6/Imagens Criptografia/Exemplo terminal hash ID entrada.png",
+    "FASE 6/Imagens FASE 6/Imagens Criptografia/Exemplo MITM.png",
+    "FASE 6/Imagens FASE 6/Imagens Criptografia/Exemplo Sniffing.png",
+    "FASE 6/Imagens FASE 6/Imagens Criptografia/Exemplo Diffie-Hellman.png",
+    "FASE 6/Imagens FASE 6/Imagens Criptografia/Exemplo Criptografia Simétrica.png",
+    "FASE 6/Imagens FASE 6/Imagens Criptografia/Exemplo 3DES.png",
+    "FASE 6/Criptografia/Hashing/Transposição.md",
+    "FASE 6/Criptografia/Hashing/Identificando Hashes.md",
+    "FASE 6/Criptografia/Hashing/Base 64.md",
+    "FASE 6/Criptografia/Hashing/Algoritmos de Hashing.md",
+    "FASE 6/Criptografia/Criptografia Simétrica/RC2, RC4 e RC5.md",
+    "FASE 6/Criptografia/Criptografia Simétrica/IDEA.md",
+    "FASE 6/Criptografia/Criptografia Simétrica/DES e 3DES.md",
+    "FASE 6/Criptografia/Criptografia Simétrica/Blowfish.md",
+    "FASE 6/Criptografia/Criptografia Simétrica/AES.md",
+    "FASE 6/Criptografia/Criptografia Assimétrica/SSL e TLS.md",
+    "FASE 6/Criptografia/Criptografia Assimétrica/DSA.md",
+    "FASE 6/Criptografia/Criptografia Assimétrica/RSA.md",
+    "FASE 6/Imagens FASE 6/Imagens Criptografia",
+    "FASE 6/Criptografia/Introdução a Criptografia.md",
+    "FASE 6/Criptografia/Hashing",
+    "FASE 6/Criptografia/Criptografia Simétrica",
+    "FASE 6/Criptografia/Criptografia Assimétrica",
+    "FASE 6/Imagens FASE 6",
+    "FASE 6/Criptografia",
+    "FASE 6/Ataques ao TCP",
+    "FASE 6/Analise de Rede",
+    "FASE 6"
+  ]
+}

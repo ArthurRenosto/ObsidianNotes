@@ -1,0 +1,438 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "Y_JRb9krQx-3933wtDzk1",
+      "name": "Tópico",
+      "value": "#00ffff"
+    },
+    {
+      "id": "RT6EUau5eTbl3ZKnSoxGN",
+      "name": "Teoria",
+      "value": "#ff0000"
+    },
+    {
+      "id": "UaRoCx3zctG0mqeIqT45R",
+      "name": "Prática",
+      "value": "#00ff00"
+    },
+    {
+      "id": "qLvymHKNzXNYubwlAh28R",
+      "name": "Teoria/Prática",
+      "value": "#ffff00"
+    },
+    {
+      "id": "gWEBK7ivC7VYp8lGAAQtB",
+      "name": "Subtópico",
+      "value": "#0096ff"
+    },
+    {
+      "id": "eRespin5ehIizEjrPwXy0",
+      "name": "TemaPrincipal",
+      "value": "#ff00ff"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "HTB/CWES/05 - Web Fuzzing/02 - Diretórios e Arquivos/01 - Introdução ao Fuzzing de Diretórios e Arquivos.md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "HTB/CWES/05 - Web Fuzzing/02 - Diretórios e Arquivos/03 - Fuzzing de Diretórios e Arquivos.md",
+      "color": "UaRoCx3zctG0mqeIqT45R"
+    },
+    {
+      "path": "HTB/CWES/05 - Web Fuzzing/02 - Diretórios e Arquivos/02 - Fuzzing Recursivo.md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "HTB/CWES/04- Information Gathering/03 - DNS/03 - DNS Zone Transfer.md",
+      "color": "qLvymHKNzXNYubwlAh28R"
+    },
+    {
+      "path": "HTB/CWES",
+      "color": "eRespin5ehIizEjrPwXy0"
+    },
+    {
+      "path": "HTB/CWES/01- HTTP",
+      "color": "Y_JRb9krQx-3933wtDzk1"
+    },
+    {
+      "path": "HTB/CWES/02- Aplicacoes WEB",
+      "color": "Y_JRb9krQx-3933wtDzk1"
+    },
+    {
+      "path": "HTB/CWES/03- Web Proxies",
+      "color": "Y_JRb9krQx-3933wtDzk1"
+    },
+    {
+      "path": "HTB/CWES/04- Information Gathering",
+      "color": "Y_JRb9krQx-3933wtDzk1"
+    },
+    {
+      "path": "HTB/CWES/05 - Web Fuzzing",
+      "color": "Y_JRb9krQx-3933wtDzk1"
+    },
+    {
+      "path": "HTB/CWES/06 - Javascript Deobfuscation",
+      "color": "Y_JRb9krQx-3933wtDzk1"
+    },
+    {
+      "path": "HTB/CWES/07 - Coss-Site Scripting (XSS)",
+      "color": "Y_JRb9krQx-3933wtDzk1"
+    },
+    {
+      "path": "HTB/CWES/05 - Web Fuzzing/01 - Introdução",
+      "color": "gWEBK7ivC7VYp8lGAAQtB"
+    },
+    {
+      "path": "HTB/CWES/05 - Web Fuzzing/02 - Diretórios e Arquivos",
+      "color": "gWEBK7ivC7VYp8lGAAQtB"
+    },
+    {
+      "path": "HTB/CWES/05 - Web Fuzzing/03 - Parâmetros e Valores",
+      "color": "gWEBK7ivC7VYp8lGAAQtB"
+    },
+    {
+      "path": "HTB/CWES/05 - Web Fuzzing/04 - VHosts e Subdomínios",
+      "color": "gWEBK7ivC7VYp8lGAAQtB"
+    },
+    {
+      "path": "HTB/CWES/05 - Web Fuzzing/05 - Filtragem de Saída",
+      "color": "gWEBK7ivC7VYp8lGAAQtB"
+    },
+    {
+      "path": "HTB/CWES/05 - Web Fuzzing/06 - Validando Descobertas",
+      "color": "gWEBK7ivC7VYp8lGAAQtB"
+    },
+    {
+      "path": "HTB/CWES/05 - Web Fuzzing/07 - APIs",
+      "color": "gWEBK7ivC7VYp8lGAAQtB"
+    },
+    {
+      "path": "HTB/CWES/05 - Web Fuzzing/08 - Avaliação",
+      "color": "gWEBK7ivC7VYp8lGAAQtB"
+    },
+    {
+      "path": "HTB/CWES/05 - Web Fuzzing/01 - Introdução/01 - Introdução ao Web Fuzzing.md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "HTB/CWES/05 - Web Fuzzing/03 - Parâmetros e Valores/01 - Fuzzing de Parâmetros e Valores.md",
+      "color": "UaRoCx3zctG0mqeIqT45R"
+    },
+    {
+      "path": "HTB/CWES/05 - Web Fuzzing/04 - VHosts e Subdomínios/01 - Fuzzing de VHosts e Subdomínios.md",
+      "color": "UaRoCx3zctG0mqeIqT45R"
+    },
+    {
+      "path": "HTB/CWES/05 - Web Fuzzing/05 - Filtragem de Saída/05 - Filtragem de Saída de Fuzzing.md",
+      "color": "UaRoCx3zctG0mqeIqT45R"
+    },
+    {
+      "path": "HTB/CWES/05 - Web Fuzzing/06 - Validando Descobertas/01 - Validando Descobertas de Fuzzing.md",
+      "color": "UaRoCx3zctG0mqeIqT45R"
+    },
+    {
+      "path": "HTB/CWES/05 - Web Fuzzing/07 - APIs/01 - Introdução ao Fuzzing de APIs.md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "HTB/CWES/05 - Web Fuzzing/07 - APIs/02 - Fuzzing de APIs.md",
+      "color": "UaRoCx3zctG0mqeIqT45R"
+    },
+    {
+      "path": "HTB/CWES/04- Information Gathering/01 - Introdução",
+      "color": "gWEBK7ivC7VYp8lGAAQtB"
+    },
+    {
+      "path": "HTB/CWES/04- Information Gathering/02 - WHOIS",
+      "color": "gWEBK7ivC7VYp8lGAAQtB"
+    },
+    {
+      "path": "HTB/CWES/04- Information Gathering/03 - DNS",
+      "color": "gWEBK7ivC7VYp8lGAAQtB"
+    },
+    {
+      "path": "HTB/CWES/04- Information Gathering/04 - Fingerprinting",
+      "color": "gWEBK7ivC7VYp8lGAAQtB"
+    },
+    {
+      "path": "HTB/CWES/04- Information Gathering/05 - Crawling",
+      "color": "gWEBK7ivC7VYp8lGAAQtB"
+    },
+    {
+      "path": "HTB/CWES/04- Information Gathering/06 - Google Dorks",
+      "color": "gWEBK7ivC7VYp8lGAAQtB"
+    },
+    {
+      "path": "HTB/CWES/04- Information Gathering/07 - Automatizando",
+      "color": "gWEBK7ivC7VYp8lGAAQtB"
+    },
+    {
+      "path": "HTB/CWES/04- Information Gathering/08 - Processo",
+      "color": "gWEBK7ivC7VYp8lGAAQtB"
+    },
+    {
+      "path": "HTB/CWES/04- Information Gathering/09 - Avaliação",
+      "color": "gWEBK7ivC7VYp8lGAAQtB"
+    },
+    {
+      "path": "HTB/CWES/04- Information Gathering/01 - Introdução/01 - Introdução ao Information Gathering.md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "HTB/CWES/04- Information Gathering/01 - Introdução/02 - Reconhecimento Ativo.md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "HTB/CWES/04- Information Gathering/01 - Introdução/03 - Reconhecimento Passivo.md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "HTB/CWES/04- Information Gathering/02 - WHOIS/01 - Introdução ao WHOIS.md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "HTB/CWES/04- Information Gathering/02 - WHOIS/02 - Utilizando o WHOIS.md",
+      "color": "UaRoCx3zctG0mqeIqT45R"
+    },
+    {
+      "path": "HTB/CWES/04- Information Gathering/03 - DNS/01 - Introdução ao DNS.md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "HTB/CWES/04- Information Gathering/03 - DNS/02 - Enumeração DNS.md",
+      "color": "UaRoCx3zctG0mqeIqT45R"
+    },
+    {
+      "path": "HTB/CWES/04- Information Gathering/03 - DNS/04 - Introdução a Subdomínios.md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "HTB/CWES/04- Information Gathering/03 - DNS/05 - Certificados de Transparência (CT).md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "HTB/CWES/04- Information Gathering/03 - DNS/06 - VHosts.md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "HTB/CWES/04- Information Gathering/03 - DNS/07 - Enumeração de Subdomínios e VHosts.md",
+      "color": "UaRoCx3zctG0mqeIqT45R"
+    },
+    {
+      "path": "HTB/CTFs",
+      "color": "eRespin5ehIizEjrPwXy0"
+    },
+    {
+      "path": "HTB/CWES/07 - Coss-Site Scripting (XSS)/01 - Introdução/01 - Introdução ao XSS.md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "HTB/CWES/07 - Coss-Site Scripting (XSS)/01 - Introdução/02 - Reflected XSS.md",
+      "color": "qLvymHKNzXNYubwlAh28R"
+    },
+    {
+      "path": "HTB/CWES/07 - Coss-Site Scripting (XSS)/01 - Introdução/04 - Stored XSS.md",
+      "color": "qLvymHKNzXNYubwlAh28R"
+    },
+    {
+      "path": "HTB/CWES/07 - Coss-Site Scripting (XSS)/01 - Introdução/03 - DOM XSS.md",
+      "color": "qLvymHKNzXNYubwlAh28R"
+    },
+    {
+      "path": "HTB/CWES/07 - Coss-Site Scripting (XSS)/01 - Introdução/05 - Scanners XSS.md",
+      "color": "UaRoCx3zctG0mqeIqT45R"
+    },
+    {
+      "path": "HTB/CWES/07 - Coss-Site Scripting (XSS)/01 - Introdução",
+      "color": "gWEBK7ivC7VYp8lGAAQtB"
+    },
+    {
+      "path": "HTB/CWES/07 - Coss-Site Scripting (XSS)/02 - Explorando",
+      "color": "gWEBK7ivC7VYp8lGAAQtB"
+    },
+    {
+      "path": "HTB/CWES/07 - Coss-Site Scripting (XSS)/02 - Explorando/01 - Phishing.md",
+      "color": "UaRoCx3zctG0mqeIqT45R"
+    },
+    {
+      "path": "HTB/CWES/04- Information Gathering/04 - Fingerprinting/01 - Fingerprinting.md",
+      "color": "qLvymHKNzXNYubwlAh28R"
+    },
+    {
+      "path": "HTB/CWES/04- Information Gathering/08 - Processo/01 - Processo de Reconhecimento Web.md",
+      "color": "UaRoCx3zctG0mqeIqT45R"
+    },
+    {
+      "path": "HTB/CWES/04- Information Gathering/07 - Automatizando/Automação do Reconhecimento.md",
+      "color": "UaRoCx3zctG0mqeIqT45R"
+    },
+    {
+      "path": "REDES DE COMPUTADORES",
+      "color": "eRespin5ehIizEjrPwXy0"
+    },
+    {
+      "path": "REDES DE COMPUTADORES/01 - Introdução",
+      "color": "Y_JRb9krQx-3933wtDzk1"
+    },
+    {
+      "path": "REDES DE COMPUTADORES/02 - Protocolos",
+      "color": "Y_JRb9krQx-3933wtDzk1"
+    },
+    {
+      "path": "REDES DE COMPUTADORES/01 - Introdução/02 - O que é a Internet.md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "REDES DE COMPUTADORES/01 - Introdução/09 - MAC.md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "REDES DE COMPUTADORES/01 - Introdução/04 - Classificação das Redes.md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "REDES DE COMPUTADORES/01 - Introdução/05 - Rede Interna e Externa.md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "REDES DE COMPUTADORES/01 - Introdução/Conceitos/Gateway.md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "REDES DE COMPUTADORES/01 - Introdução/07 - Classes e Sub-redes.md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "REDES DE COMPUTADORES/01 - Introdução/06 - CGNAT.md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "REDES DE COMPUTADORES/03 - Tecnologias",
+      "color": "Y_JRb9krQx-3933wtDzk1"
+    },
+    {
+      "path": "REDES DE COMPUTADORES/01 - Introdução/03 - Transmissão de Internet.md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "REDES DE COMPUTADORES/01 - Introdução/10 - Roteamento.md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "REDES DE COMPUTADORES/01 - Introdução/11 - LifeCycle Network.md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "REDES DE COMPUTADORES/03 - Tecnologias/01 - VPN.md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "REDES DE COMPUTADORES/03 - Tecnologias/02 - VPS.md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "REDES DE COMPUTADORES/03 - Tecnologias/03 - Proxy.md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "REDES DE COMPUTADORES/01 - Introdução/Conceitos",
+      "color": "gWEBK7ivC7VYp8lGAAQtB"
+    },
+    {
+      "path": "REDES DE COMPUTADORES/03 - Tecnologias/04 - Firewall.md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "REDES DE COMPUTADORES/03 - Tecnologias/05 - WAF.md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "REDES DE COMPUTADORES/03 - Tecnologias/06 - IDS e IPS.md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "REDES DE COMPUTADORES/03 - Tecnologias/07 - VLAN.md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "REDES DE COMPUTADORES/01 - Introdução/Conceitos/Full Duplex e Half Duplex.md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "REDES DE COMPUTADORES/01 - Introdução/Conceitos/Broadcast e Unicast.md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "REDES DE COMPUTADORES/01 - Introdução/Conceitos/Backbone.md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "REDES DE COMPUTADORES/01 - Introdução/01 - Terminologias.md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "REDES DE COMPUTADORES/03 - Tecnologias/08 - Zabbix.md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "REDES DE COMPUTADORES/04 - Packet Tracer",
+      "color": "Y_JRb9krQx-3933wtDzk1"
+    },
+    {
+      "path": "HTB/CPTS",
+      "color": "eRespin5ehIizEjrPwXy0"
+    },
+    {
+      "path": "HTB/CPTS/01 - Enumeração",
+      "color": "Y_JRb9krQx-3933wtDzk1"
+    },
+    {
+      "path": "HTB/CPTS/01 - Enumeração/01 - Introdução",
+      "color": "gWEBK7ivC7VYp8lGAAQtB"
+    },
+    {
+      "path": "HTB/CPTS/01 - Enumeração/02 - Enumerando/01 - Enumeração de Hosts.md",
+      "color": "qLvymHKNzXNYubwlAh28R"
+    },
+    {
+      "path": "FIAP",
+      "color": "eRespin5ehIizEjrPwXy0"
+    },
+    {
+      "path": "HTB/CPTS/01 - Enumeração/02 - Enumerando/02 - Port scanning.md",
+      "color": "qLvymHKNzXNYubwlAh28R"
+    },
+    {
+      "path": "HTB/CWES/07 - Coss-Site Scripting (XSS)/02 - Explorando/02 - Session Hijacking.md",
+      "color": "UaRoCx3zctG0mqeIqT45R"
+    },
+    {
+      "path": "HTB/CWES/07 - Coss-Site Scripting (XSS)/03 - Previnindo",
+      "color": "gWEBK7ivC7VYp8lGAAQtB"
+    },
+    {
+      "path": "HTB/CWES/07 - Coss-Site Scripting (XSS)/04 - Avaliação de Habilidades",
+      "color": "gWEBK7ivC7VYp8lGAAQtB"
+    },
+    {
+      "path": "HTB/CPTS/01 - Enumeração/01 - Introdução/01 - Introdução a Enumeração.md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "HTB/CPTS/01 - Enumeração/02 - Enumerando",
+      "color": "gWEBK7ivC7VYp8lGAAQtB"
+    },
+    {
+      "path": "HTB/CPTS/01 - Enumeração/01 - Introdução/02 - Introdução ao Nmap.md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "HTB/CPTS/01 - Enumeração/02 - Enumerando/03 - Enumeração de Serviços.md",
+      "color": "qLvymHKNzXNYubwlAh28R"
+    }
+  ]
+}
