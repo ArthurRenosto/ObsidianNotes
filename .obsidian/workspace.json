@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9bdf47da4fcde404",
+        "id": "f6a6d1a7487c5df3",
         "type": "tabs",
         "children": [
           {
-            "id": "70e16e062ba4b6a8",
+            "id": "74f5edecc9d9f440",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FUNDAMENTOS/Programação/Banco de Dados/Querys.md",
+                "file": "PENTEST/02- Information Gathering/02 - Reconhecimento Ativo/02 - Nmap/02 - Enumerando Hosts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Querys"
+              "title": "02 - Enumerando Hosts"
             }
           }
         ]
@@ -63,7 +63,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
@@ -71,16 +71,19 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Marcadores"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 203.0546875
+    "width": 360.22265625
   },
   "right": {
     "id": "3a841a1a54a5d891",
@@ -175,54 +178,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "70e16e062ba4b6a8",
+  "active": "74f5edecc9d9f440",
   "lastOpenFiles": [
-    "FUNDAMENTOS/Programação/Banco de Dados/Querys.md",
-    "FUNDAMENTOS/Programação/Banco de Dados",
-    "FIAP/FASE 6/Criptografia/Introdução a Criptografia.md",
-    "HTB/CWES/07 - Coss-Site Scripting (XSS)/02 - Explorando/02 - Session Hijacking.md",
-    "HTB/CWES/07 - Coss-Site Scripting (XSS)/02 - Explorando/01 - Phishing.md",
-    "REDES DE COMPUTADORES/01 - Introdução/05 - Rede Interna e Externa.md",
-    "REDES DE COMPUTADORES/01 - Introdução/07 - Classes e Sub-redes.md",
-    "REDES DE COMPUTADORES/01 - Introdução/09 - MAC.md",
-    "REDES DE COMPUTADORES/01 - Introdução/10 - Roteamento.md",
-    "REDES DE COMPUTADORES/01 - Introdução/11 - LifeCycle Network.md",
-    "REDES DE COMPUTADORES/02 - Protocolos/02 - IP.md",
-    "REDES DE COMPUTADORES/01 - Introdução/01 - Terminologias.md",
-    "REDES DE COMPUTADORES/01 - Introdução/02 - O que é a Internet.md",
-    "REDES DE COMPUTADORES/02 - Protocolos/01 - O que são Protocolos.md",
-    "REDES DE COMPUTADORES/02 - Protocolos/04 - TCP.md",
-    "REDES DE COMPUTADORES/02 - Protocolos/03 - DHCP.md",
-    "Z-Imagens/Pasted Image 20250924064720_212.png",
-    "HTB/CWES/07 - Coss-Site Scripting (XSS)/01 - Introdução/02 - Reflected XSS.md",
-    "LUCY/O que precisa ter.md",
-    "HTB/CWES/07 - Coss-Site Scripting (XSS)/01 - Introdução/05 - Scanners XSS.md",
-    "HTB/CWES/07 - Coss-Site Scripting (XSS)/01 - Introdução/03 - DOM XSS.md",
-    "HTB/CWES/07 - Coss-Site Scripting (XSS)/01 - Introdução/04 - Stored XSS.md",
-    "HTB/CWES/07 - Coss-Site Scripting (XSS)/03 - Previnindo/01 - Prevenindo XSS.md",
     "HTB/CPTS/01 - Enumeração/02 - Enumerando/01 - Enumeração de Hosts.md",
+    "PENTEST/02- Information Gathering/02 - Reconhecimento Ativo/02 - Nmap/02 - Enumerando Hosts.md",
+    "PENTEST/02- Information Gathering/02 - Reconhecimento Ativo/02 - Nmap/01 - Introdução ao Nmap.md",
+    "HTB/CPTS/01 - Enumeração/02 - Enumerando/02 - Port scanning.md",
+    "HTB/CPTS/01 - Enumeração/01 - Introdução/02 - Introdução ao Nmap.md",
+    "HTB/CPTS/01 - Enumeração/01 - Introdução/01 - Introdução a Enumeração.md",
+    "REDES DE COMPUTADORES/02 - protocolos 1/protocolos.md",
+    "PENTEST/02- Information Gathering/02 - Reconhecimento Ativo/01 - Introdução/ativo.md",
+    "PENTEST/02- Information Gathering/02 - Reconhecimento Ativo/01 - Introdução/01 - Introdução ao Reconhecimento Ativo.md",
     "HTB/CTFs/Meow.md",
     "HTB/CTFs/Dancing.md",
+    "GERAL/Itens em cybersec.md",
+    "GERAL/Projetos.md",
+    "Z-Imagens/Pasted image 20260921214019.png",
+    "Z-Imagens/Pasted image 20260921214110.png",
+    "HTB/CWES/05 - Web Fuzzing/02 - Diretórios e Arquivos/03 - Fuzzing de Diretórios e Arquivos.md",
+    "PENTEST/02- Information Gathering/02 - Reconhecimento Ativo/02 - Nmap",
+    "HTB/CWES/05 - Web Fuzzing/02 - Diretórios e Arquivos/02 - Fuzzing Recursivo.md",
+    "HTB/CWES/05 - Web Fuzzing/02 - Diretórios e Arquivos/01 - Introdução ao Fuzzing de Diretórios e Arquivos.md",
     "HTB/CPTS/01 - Enumeração/02 - Enumerando/03 - Enumeração de Serviços.md",
-    "HTB/CPTS/01 - Enumeração/02 - Enumerando/02 - Port scanning.md",
-    "Pasted image 20260503140948.png",
-    "Z-Imagens/Pasted image 20260503093347.png",
-    "Z-Imagens/Pasted image 20260503092417.png",
-    "Z-Imagens/Pasted image 20260503092211.png",
-    "Z-Imagens/Pasted image 20260503092059.png",
-    "Z-Imagens/Pasted image 20260502154510.png",
-    "Z-Imagens/Pasted image 20260417220511.png",
-    "Z-Imagens/Pasted image 20260417220520.png",
-    "Z-Imagens/Pasted image 20260417220513.png",
-    "HTB/CPTS/01 - Enumeração/02 - Enumerando",
-    "HTB/CWES/07 - Coss-Site Scripting (XSS)/04 - Avaliação de Habilidades",
-    "HTB/CWES/07 - Coss-Site Scripting (XSS)/03 - Previnindo",
-    "FIAP/Untitled",
-    "FIAP/FASE 8",
-    "HTB/CPTS/01 - Enumeração/01 - Introdução",
-    "LUCY/models",
-    "LUCY",
-    "HTB/CPTS/01 - Enumeração",
+    "PENTEST/02- Information Gathering/01- Reconhecimento Passivo/shodan.md",
+    "HTB/CWES/04- Information Gathering/07 - Automatizando/Automação do Reconhecimento.md",
+    "HTB/CWES/04- Information Gathering/08 - Processo/01 - Processo de Reconhecimento Web.md",
+    "HTB/CWES/04- Information Gathering/03 - DNS/07 - Enumeração de Subdomínios e VHosts.md",
+    "HTB/CWES/04- Information Gathering/01 - Introdução/01 - Introdução ao Information Gathering.md",
+    "HTB/CWES/03- Web Proxies/Introdução aos Web Proxies.md",
+    "PENTEST/02- Information Gathering/01- Reconhecimento Passivo/01 - Introdução/01 -Introdução ao Reconhecimento Passivo.md",
+    "HTB/CWES/03- Web Proxies/Burp Suite/Intruder.md",
+    "PENTEST/01 - Introdução ao Pentest",
+    "HTB/CWES/03- Web Proxies/Burp Suite/Exercicio Burp.md",
+    "REDES DE COMPUTADORES/02 - protocolos 1",
+    "Z-Imagens/Pasted image 20260922133620.png",
+    "PENTEST/02- Information Gathering/02 - Reconhecimento Ativo/01 - Introdução",
+    "PENTEST/02- Information Gathering/02 - Reconhecimento Ativo",
+    "PENTEST/01- Information Gathering/01- Reconhecimento Passivo/03 - NSLOOKUP",
+    "Z-Imagens/Pasted image 20260922110233.png",
+    "Z-Imagens/Pasted image 20260922110220.png",
+    "Pasted image 20260922110135.png",
+    "PENTEST/02- Information Gathering/01- Reconhecimento Passivo/02 - WHOIS",
+    "PENTEST/02- Information Gathering/01- Reconhecimento Passivo/01 - Introdução",
+    "PENTEST/02- Information Gathering/01- Reconhecimento Passivo",
+    "PENTEST/02- Information Gathering",
+    "Z-Imagens/Pasted image 20260921220907.png",
+    "Z-Imagens/Pasted image 20260921220617.png",
+    "Z-Imagens/Pasted image 20260921220208.png",
+    "Z-Imagens/Pasted image 20260921212415.png",
     "FUNDAMENTOS/jorge.canvas",
     "FIAP/FASE 6/Criptografia/Roadmap Criptografia.canvas",
     "FIAP/FASE 6/Roadmap Fase 6.canvas"

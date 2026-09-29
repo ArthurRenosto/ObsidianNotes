@@ -12,7 +12,6 @@ Desenvolvimento de Malware
 Desenvolvimento de Exploit
 Engenharia Reversa
 Threat Inteligence
-Forense
-
-Resposta a Insciddentes
+Fore[[Projetos]]nse
+Resposta a Incidentes
 

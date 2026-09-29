@@ -1,5 +1,6 @@
 Certificate Transparency (CT) logs, são registros públicos onde, sempre que uma Autoridade Certificadora(CA) emite um novo certificado SSL/TLS, ela envia para vários registros CT.
 
+- Cada certificado contém o campo SAN(Subject Alternative Name, ou Nome Alternativo do Assunto) listando todos os domínios e subdominios que o mesmo cobre.
 - Dentro do SSL/TLS temos o certificado digital
 - É possível explorar certificados desonestos, por isso existem os CT
 # Ferramentas

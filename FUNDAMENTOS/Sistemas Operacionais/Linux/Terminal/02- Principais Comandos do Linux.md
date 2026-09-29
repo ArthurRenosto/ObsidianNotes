@@ -1,5 +1,4 @@
-
-| Help         |                                      |
+| Help         | Descrição                            |
 | ------------ | ------------------------------------ |
 | man          | Manual da ferramenta                 |
 | --help ou -h | Ajuda rápida no propio terminal      |

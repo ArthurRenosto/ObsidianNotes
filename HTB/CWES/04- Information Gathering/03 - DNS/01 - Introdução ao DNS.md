@@ -25,7 +25,7 @@ O Domain Name System traduz nomes de domínio em endereços IP.
 ## (8) Seu PC
 - Se conecta ao Servidor
 
-# Arquivo H![[Pasted image 20260503140948.png]]osts
+# Arquivo Hosts
 
 - Arquivo de configuração DNS manual
 - Verificado antes do resolver

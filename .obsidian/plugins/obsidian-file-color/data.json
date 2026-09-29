@@ -433,6 +433,106 @@
     {
       "path": "HTB/CPTS/01 - Enumeração/02 - Enumerando/03 - Enumeração de Serviços.md",
       "color": "qLvymHKNzXNYubwlAh28R"
+    },
+    {
+      "path": "FUNDAMENTOS",
+      "color": "eRespin5ehIizEjrPwXy0"
+    },
+    {
+      "path": "FUNDAMENTOS/Sistemas Operacionais",
+      "color": "eRespin5ehIizEjrPwXy0"
+    },
+    {
+      "path": "FUNDAMENTOS/Sistemas Operacionais/Linux",
+      "color": "Y_JRb9krQx-3933wtDzk1"
+    },
+    {
+      "path": "FUNDAMENTOS/Sistemas Operacionais/Linux/Terminal",
+      "color": "gWEBK7ivC7VYp8lGAAQtB"
+    },
+    {
+      "path": "FUNDAMENTOS/Sistemas Operacionais/Linux/01 - Introdução",
+      "color": "gWEBK7ivC7VYp8lGAAQtB"
+    },
+    {
+      "path": "FUNDAMENTOS/Sistemas Operacionais/Linux/01 - Introdução/01 - Introdução ao Linux.md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "FUNDAMENTOS/Sistemas Operacionais/Linux/01 - Introdução/Hierarquia do sistema de arquivos.md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "FUNDAMENTOS/Sistemas Operacionais/Linux/Terminal/01 - Terminal & Shell.md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "FUNDAMENTOS/Sistemas Operacionais/Windows",
+      "color": "Y_JRb9krQx-3933wtDzk1"
+    },
+    {
+      "path": "FUNDAMENTOS/Programação",
+      "color": "eRespin5ehIizEjrPwXy0"
+    },
+    {
+      "path": "FUNDAMENTOS/Arquitetura de Computadores",
+      "color": "eRespin5ehIizEjrPwXy0"
+    },
+    {
+      "path": "GERAL",
+      "color": "eRespin5ehIizEjrPwXy0"
+    },
+    {
+      "path": "PENTEST/02- Information Gathering",
+      "color": "eRespin5ehIizEjrPwXy0"
+    },
+    {
+      "path": "PENTEST/02- Information Gathering/01- Reconhecimento Passivo",
+      "color": "Y_JRb9krQx-3933wtDzk1"
+    },
+    {
+      "path": "PENTEST/web",
+      "color": "Y_JRb9krQx-3933wtDzk1"
+    },
+    {
+      "path": "PENTEST/02- Information Gathering/01- Reconhecimento Passivo/02 - WHOIS/01 - WHOIS.md",
+      "color": "qLvymHKNzXNYubwlAh28R"
+    },
+    {
+      "path": "PENTEST/02- Information Gathering/01- Reconhecimento Passivo/01 - Introdução",
+      "color": "gWEBK7ivC7VYp8lGAAQtB"
+    },
+    {
+      "path": "PENTEST/02- Information Gathering/01- Reconhecimento Passivo/02 - WHOIS",
+      "color": "gWEBK7ivC7VYp8lGAAQtB"
+    },
+    {
+      "path": "PENTEST/02- Information Gathering/01- Reconhecimento Passivo/02 - WHOIS/02 - RDAP.md",
+      "color": "qLvymHKNzXNYubwlAh28R"
+    },
+    {
+      "path": "PENTEST/02- Information Gathering/02 - Reconhecimento Ativo",
+      "color": "Y_JRb9krQx-3933wtDzk1"
+    },
+    {
+      "path": "PENTEST/02- Information Gathering/02 - Reconhecimento Ativo/01 - Introdução",
+      "color": "gWEBK7ivC7VYp8lGAAQtB"
+    },
+    {
+      "path": "PENTEST/01 - Introdução ao Pentest",
+      "color": "eRespin5ehIizEjrPwXy0"
+    },
+    {
+      "path": "PENTEST/02- Information Gathering/02 - Reconhecimento Ativo/02 - Nmap",
+      "color": "gWEBK7ivC7VYp8lGAAQtB"
+    },
+    {
+      "path": "PENTEST/02- Information Gathering/02 - Reconhecimento Ativo/02 - Nmap/01 - Introdução ao Nmap.md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "PENTEST/02- Information Gathering/02 - Reconhecimento Ativo/02 - Nmap/02 - Enumerando Hosts.md",
+      "color": "qLvymHKNzXNYubwlAh28R"
     }
   ]
 }

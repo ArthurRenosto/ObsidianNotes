@@ -73,4 +73,10 @@ dnsrecon -d jorge.com
 
 # dnsdumpster
 
+- Possui informações como:
+	- Cache de mecanismos de pesquisa.
+	- Bbancos de dados de transferencias de zona. 
+	- Registros de certificado.
+	- Gráficos de informações relacionadas entre si.
+
 https://dnsdumpster.com/

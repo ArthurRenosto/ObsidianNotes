@@ -1,0 +1,11 @@
+
+
+Componentes
+
+
+
+Arquitetura do Linux
+
+
+
+
