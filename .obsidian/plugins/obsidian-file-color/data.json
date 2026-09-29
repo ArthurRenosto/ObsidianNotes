@@ -431,10 +431,6 @@
       "color": "RT6EUau5eTbl3ZKnSoxGN"
     },
     {
-      "path": "HTB/CPTS/01 - Enumeração/02 - Enumerando/03 - Enumeração de Serviços.md",
-      "color": "qLvymHKNzXNYubwlAh28R"
-    },
-    {
       "path": "FUNDAMENTOS",
       "color": "eRespin5ehIizEjrPwXy0"
     },
@@ -532,6 +528,26 @@
     },
     {
       "path": "PENTEST/02- Information Gathering/02 - Reconhecimento Ativo/02 - Nmap/02 - Enumerando Hosts.md",
+      "color": "qLvymHKNzXNYubwlAh28R"
+    },
+    {
+      "path": "PENTEST/02- Information Gathering/02 - Reconhecimento Ativo/01 - Introdução/01 - Introdução ao Reconhecimento Ativo.md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "PENTEST/02- Information Gathering/02 - Reconhecimento Ativo/01 - Introdução/02 - Introdução a Enumeração.md",
+      "color": "RT6EUau5eTbl3ZKnSoxGN"
+    },
+    {
+      "path": "PENTEST/02- Information Gathering/02 - Reconhecimento Ativo/02 - Nmap/03 - Port Scanning.md",
+      "color": "qLvymHKNzXNYubwlAh28R"
+    },
+    {
+      "path": "PENTEST/02- Information Gathering/02 - Reconhecimento Ativo/03- Masscan",
+      "color": "gWEBK7ivC7VYp8lGAAQtB"
+    },
+    {
+      "path": "PENTEST/02- Information Gathering/02 - Reconhecimento Ativo/02 - Nmap/04 - Técnicas de Port Scanning.md",
       "color": "qLvymHKNzXNYubwlAh28R"
     }
   ]

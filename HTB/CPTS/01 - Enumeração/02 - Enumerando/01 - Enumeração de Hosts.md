@@ -35,6 +35,7 @@ sudo nmap -sn -oA tnet 10.129.2.18 10.129.2.19 10.129.2.20| grep for | cut -d" "
 sudo nmap 10.129.2.18/24 -sn -oA resultados --packet-trace 
 ```
 
+![[Pasted image 20260929133725.png]]
 # ICMP Ping
 
 - Podemos forçar o uso de ICMP echo requests ao inves de ARP requests para enumeração

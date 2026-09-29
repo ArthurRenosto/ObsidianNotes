@@ -6,14 +6,14 @@
  
 # Estados das portas
 
-| Estado             | Descrição                                                                                                                         |
-| ------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
-| open               | A conexão com a porta foi estabelecida. Essas conexões podem ser TCP, datagramas UDP, associações SCTP                            |
-| closed             | A porta é exibida como fechada, o protocolo TCP indica que recebemos uma flag RST.                                                |
-| filtered           | O nmap não consegue determinar o estado da porta, pois não recebeu resposta ou recebeu um erro                                    |
-| unfiltered         | O nmap encaminha um ACK e recebe um RST, ele não determina se a porta está aberta ou fechada, mas sabe que a porta está acessível |
-| open \| filtered   | Caso não receba resposta de uma porta especifica, indica que um firewall pode estar protegendo está porta                         |
-| closed \| filtered | Não consegue determinar se a porta está fechada ou filtrada, geralmente aparece em scans IP IDLE                                  |
+| Estado             | Descrição                                                                                                                                                                               |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| open               | A conexão com a porta foi estabelecida e possui um serviço ouvindo. Essas conexões podem ser TCP, datagramas UDP, associações SCTP.                                                     |
+| closed             | A porta é exibida como fechada, está acessível mas nem um serviço está escutando. Também recebemos uma flag RST.                                                                        |
+| filtered           | O nmap não consegue determinar o estado da porta, pois não recebeu resposta ou recebeu um erro, assim sendo possível determinar que talvez um firewall esteja bloqueando a comunicação. |
+| unfiltered         | O nmap encaminha um ACK e recebe um RST, ele não determina se a porta está aberta ou fechada, mas sabe que a porta está acessível.                                                      |
+| open \| filtered   | Caso não receba resposta de uma porta especifica, indica que um firewall pode estar protegendo está porta e não consegue determinar se está aberta ou filtrada.                         |
+| closed \| filtered | Não consegue determinar se a porta está fechada ou filtrada.                                                                                                                            |
 # Descobrindo portas TCP
 
 - Por padrão o quando executamos o nmap como root, ele scaneia as 1000 principais portas TCP, com SYN scan (-sS).
