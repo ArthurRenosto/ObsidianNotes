@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PENTEST/02- Information Gathering/02 - Reconhecimento Ativo/02 - Nmap/04 - Técnicas de Port Scanning.md",
+                "file": "PENTEST/02- Information Gathering/02 - Reconhecimento Ativo/02 - Nmap/05 - Enumeração.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 - Técnicas de Port Scanning"
+              "title": "05 - Enumeração"
             }
           }
         ]
@@ -180,8 +180,10 @@
   },
   "active": "74f5edecc9d9f440",
   "lastOpenFiles": [
-    "PENTEST/02- Information Gathering/02 - Reconhecimento Ativo/02 - Nmap/03 - Port Scanning.md",
     "PENTEST/02- Information Gathering/02 - Reconhecimento Ativo/02 - Nmap/02 - Host Descovery.md",
+    "PENTEST/02- Information Gathering/02 - Reconhecimento Ativo/02 - Nmap/05 - Enumeração.md",
+    "PENTEST/02- Information Gathering/02 - Reconhecimento Ativo/02 - Nmap/03 - Introdução ao Port Scanning.md",
+    "PENTEST/02- Information Gathering/02 - Reconhecimento Ativo/02 - Nmap/06 - Cheat Sheet.md",
     "PENTEST/02- Information Gathering/02 - Reconhecimento Ativo/02 - Nmap/04 - Técnicas de Port Scanning.md",
     "Pasted image 20260929232547.png",
     "Pasted image 20260929232412.png",
@@ -216,7 +218,6 @@
     "PENTEST/02- Information Gathering/01- Reconhecimento Passivo/shodan.md",
     "HTB/CWES/04- Information Gathering/07 - Automatizando/Automação do Reconhecimento.md",
     "HTB/CWES/04- Information Gathering/08 - Processo/01 - Processo de Reconhecimento Web.md",
-    "HTB/CWES/04- Information Gathering/03 - DNS/07 - Enumeração de Subdomínios e VHosts.md",
     "PENTEST/01 - Introdução ao Pentest",
     "REDES DE COMPUTADORES/02 - protocolos 1",
     "PENTEST/02- Information Gathering/02 - Reconhecimento Ativo/01 - Introdução",
