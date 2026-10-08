@@ -1,4 +1,6 @@
 {
   "showRibbon": true,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "textFontFamily": "",
+  "interfaceFontFamily": ""
 }
